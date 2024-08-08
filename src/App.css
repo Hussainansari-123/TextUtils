@@ -1,0 +1,25 @@
+.nav{
+  background-color: rgb(228, 228, 228);
+
+}
+ul{
+  display: flex;
+
+}
+li{
+  list-style: none;
+  margin: 4px 5px;
+}
+a{
+  text-decoration: none;
+}
+.red{
+  border-bottom: 2px solid rgb(33, 177, 224);
+}
+.hi{
+  position: relative;
+  left: 800px;
+}
+h4{
+  align-self: center;
+}
